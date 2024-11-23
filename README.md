@@ -1,5 +1,7 @@
 **ELEKTRİKLİ ARAÇ VERİ ANALİZİ**
 
+![Proje Resmi](https://github.com/Zehra29/elektrikli_arac/blob/main/src_340x1912xtesla-otomobil-uretiminde-sessiz-bir-devrim-gerceklestiriyor.jpg?raw=true)
+
 Kaggle'da 17 özelliği olan elektrikli araç veri seti ile çalışılmıştır.
 
  **0   VIN (1-10)**: Elektrikli aracın üretim aşamasında belirlenen kimlik numarasıdır.  
